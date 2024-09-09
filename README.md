@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 👋 I'm Rakesh Sabbani, a dedicated front-end dev
 
 **🌐 Skills:**
 ----------------------------------------------------------
-.HTML
+HTML
 CSS
 JavaScript
 React
