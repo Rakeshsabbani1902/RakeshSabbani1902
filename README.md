@@ -13,8 +13,6 @@ CSS
 JavaScript
 React
 Redux
-
-
 💻 Professional Journey:
 -----------------------------------------------------------
 Currently, I'm honing my skills and gaining real-world experience , where I have the incredible opportunity to work on exciting projects and collaborate with industry experts. This hands-on experience is not only refining my technical abilities but also providing me with valuable insights into the dynamic field of web development.
