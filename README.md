@@ -5,7 +5,7 @@ Passionate Front-End Developer | React Enthusiast | Systems Engineer
 
 Welcome to my GitHub profile! 👋 I'm Rakesh Sabbani, a dedicated front-end developer with a solid foundation in web technologies. I graduated with a B.E in 2022. I've been on an exciting journey in the world of web development.
 
-🌐 Skills:
+**🌐 Skills:**
 HTML
 CSS
 JavaScript
